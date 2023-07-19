@@ -1,5 +1,5 @@
 # База данных
-![db](https://github.com/ovalentinka/Data_analyst/blob/ae55496bf70dfb61ab269f693ec4c6e9e6759aa0/sql_border2880_1628581407.png)
+![db](https://github.com/Scolaidhe/Yandex.Practicum/blob/master/advanced_sql_relations.png)
 
 - badges (хранит информацию о значках, которые присуждаются за разные достижения),
 - post_types (содержит информацию о типе постов),
