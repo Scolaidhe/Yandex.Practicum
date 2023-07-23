@@ -13,7 +13,11 @@
 - Работа с гипотезами
 
 ## Программа обучения:
-- На данный момент диплом в моменте получения.
+- RU:
+![bd](https://github.com/Scolaidhe/Yandex.Practicum/blob/master/certificate_data_analyst_ru.png)
+- EN:
+![bd](https://github.com/Scolaidhe/Yandex.Practicum/blob/master/certificate_data_analyst_en.png)
+
 
 ## Проекты:
 | №| Название и ссылка | О чем проект                                                     | Навыки и инструменты           |  
